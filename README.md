@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 😄 Pronouns: he/him
+- 💬 Ask me about: Swift, Go, NodeJS, Kubernetes, Vault
+- 📫 How to reach me: georgesaljamous@gmail.com
+- 🌍 [Website](http://www.georgesjamous.com)
+
 <!--
 **georgesjamous/georgesjamous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
