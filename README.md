@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 😄 Pronouns: he/him
 - 💬 Ask me about: Swift, Go, NodeJS, Kubernetes, Vault
 - 📫 How to reach me: georgesaljamous@gmail.com
 - 🌍 [Website](http://www.georgesjamous.com)
